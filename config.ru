@@ -26,7 +26,7 @@ toto = Toto::Server.new do
   # set :summary,   :max => 150, :delim => /~\n/                # length of article summary and delimiter
   # set :ext,       'txt'                                     # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
-
+  set :url,	'http://queeniebee.herokuapp.com/'
   set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
   # set :to_html do |path, page, ctx|
   #   ERB.new(File.read("#{path}/#{path}.rhtml")).result(ctx)
