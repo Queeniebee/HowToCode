@@ -1,0 +1,33 @@
+title: Lost Map (test)
+author: Joelle
+date: 2013/07/02
+/\n\n/
+The purpose of the Lost Map is to isolate my problem to the most granular level. Notice that asking for help from experts is the last step, the last resort. I have learned that asking for help from experts too early is not helpful. I can't phrase my question properly in a way s/he can understand, and so I am pointed back to the documentation that I do not understand or just is not clear (quite often it is not clear/quite often it is inadequate). 
+
+
+Mailing lists and IRC are oftentimes okay, sometimes good resources for help. But never go there first. 
+Define your problem as specifically as possible. Identify the key words and then search Stackoverflow.com using those keys. If after doing that you have not found an answer or adequate solution to your problem…define your problem as specifically as possible. Yes, I am recommending that you loop through your logic and project and the concept that's tripping you up until all your code and notes look like gobbledy gook. Take a break, then post on a mailing list and go on IRC. Why not ask experts first? I've learned that asking an experienced programmer before I narrow my problem is completely inefficient and frustrating exercise. I am put in a position of defending my noviceness, that it is not because I didn't read documentation, just that I am struggling with applying an example. I don't like defending or justifying my lack of knowledge. I don't get it, I don't get it. Mailing lists and IRC are NOT the best primary resources for help. The best primary resource for help is github. I swear. Find an example and simply copy that example. Don't know how it works, read the documentation. The documentation is lacking or (most often) sucks, go to Stackoverflow. Stackoverflow is freaking huge, take your time. When you've finally exhausted that route, hit up a mailing list. Place your problem in context. It'll help the people willing to answer you. 
+The experienced programmers who take the time to frequent a project's mailing list and IRC are quick to assume you haven't read the documentation. Make it clear that you have read the documentation. Paraphrase what you understand of it. This is key. Because if you're interpretation is whacked they can straighten it out for you, and when you finally master it, perhaps you can open a ticket for improving the docs.
+
+Typical IRC conversation
+I ALWAYS get asked: Well, what is it that you're trying to do? I answer.
+
+Well, have you read the gobbedly gook i.e. documenation here [link]
+I answer, Yes and paraphrase what I read and the little I understand. Ask question again.
+Well, What is it that you're trying to do?
+I answer
+Well, maybe you should use this: Link to a different tool I've never heard of and that doesn't seem any easier to implement.
+I answer that I want to keep using the tool I am learning because I like it.
+Well, What are you trying to do?
+I answer
+Let me see your code.
+[sees code]
+Your problem is this.
+
+
+Starting Point: What am I trying to do?
+
+	Have other people done it before?
+	Are there any projects like the one I am trying to build?
+Return: What am I trying to build?
+	Have other people built something like this before?
