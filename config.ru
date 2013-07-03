@@ -16,14 +16,14 @@ toto = Toto::Server.new do
   # Add your settings here
   # set [:setting], [value]
   # 
-  set :author,    "Jo as Queeniebee"                               # blog author
-  set :title,     'How to Teach Yourself How to Code'
+  # set :author,    "Jo as Queeniebee"                               # blog author
+  # set :title,     'How to Teach Yourself How to Code'
   # Dir.pwd.split('/').last                   # site title
   # set :root,      "index"                                   # page to load on /
   # set :date,      lambda {|now| now.strftime("%d/%m/%Y") }  # date format for articles
   # set :markdown,  :smart                                    # use markdown + smart-mode
   # set :disqus,    false                                     # disqus id, or false
-  set :summary,   :max => 150, :delim => /~\n/                # length of article summary and delimiter
+  # set :summary,   :max => 150, :delim => /~\n/                # length of article summary and delimiter
   # set :ext,       'txt'                                     # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
 
