@@ -1,4 +1,4 @@
-title: Lost Map (test)
+title: "Lost Map (test)"
 author: Joelle
 date: 2013/07/02
 /\n\n/

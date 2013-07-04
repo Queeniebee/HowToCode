@@ -1,4 +1,4 @@
-title: Why AM I Learning How to Code?
+title: "Why AM I Learning How to Code?"
 author: Joelle
 date: 2013/07/02
 /\n\n/
