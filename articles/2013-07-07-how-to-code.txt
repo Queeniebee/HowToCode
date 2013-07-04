@@ -1,7 +1,7 @@
-title: "Why AM I Learning How to Code?"
+title: Why AM I Learning How to Code?
 author: Joelle
 date: 2013/07/02
-/\n\n/
+
 Several times during the long slog to understanding the basics of a programming concept, I ask myself Why am I doing this? 
 Why AM I teaching myself a concept that I know little about?
 
