@@ -1,13 +1,17 @@
+PATH
+  remote: ../customized_toto
+  specs:
+    toto (0.4.9)
+      builder
+      rack
+      rdiscount
+
 GEM
   remote: http://rubygems.org/
   specs:
     builder (3.2.2)
     rack (1.5.2)
     rdiscount (2.1.6)
-    toto (0.4.9)
-      builder
-      rack
-      rdiscount
 
 PLATFORMS
   ruby
@@ -16,4 +20,4 @@ DEPENDENCIES
   builder
   rack
   rdiscount
-  toto
+  toto!
